@@ -52,4 +52,4 @@ If all goes well, you will see something similiar
 {"error":"Parameters missing. Please provide all required parameters in actions before running workflow","code":126}
 ```
 
-If could mean the flow isn't saved yet. Make sure the green arrow in the top right is checked and the flow is enabled. 
+It could mean the flow isn't saved yet. Make sure the green arrow in the top right is checked and the flow is enabled. 
