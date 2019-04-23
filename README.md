@@ -5,4 +5,4 @@ Collection of Vue examples for beginner built.io developers. Built.io enables de
 ## Introduction
 
 1. [Hello World](https://github.com/SoftwareAG/builtio-examples/tree/master/hellowebhook)
-1. [SalesForceSlack](https://github.com/SoftwareAG/builtio-examples/tree/master/salesforceslack)
+1. [Salesforce + Slack](https://github.com/SoftwareAG/builtio-examples/tree/master/salesforceslack)
